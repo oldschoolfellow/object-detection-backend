@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+aiortc
+opencv-python
+ultralytics
+supervision
+huggingface_hub
+Pillow
+aiohttp
+
