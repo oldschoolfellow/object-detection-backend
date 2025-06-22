@@ -25,8 +25,8 @@ This is a Python-based backend server using **FastAPI**, **WebRTC (aiortc)**, an
 
 ```bash
 # Clone the repo
-git clone https://github.com/your-org/drone-detection-backend.git
-cd drone-detection-backend
+git clone https://github.com/oldschoolfellow/object-detection-backend.git
+cd object-detection-backend
 
 # Create virtual environment
 python3 -m venv .venv
